@@ -1,5 +1,4 @@
 Hello there!👋
 
-- 🔭 I’m currently working on my python course on Sololearn
-- 🌱 I’m currently learning how to code in Python
+- 🔭 I’m currently taking cs50 at Yale
 - I hope to start a new project here soon!
