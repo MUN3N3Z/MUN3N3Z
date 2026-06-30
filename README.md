@@ -1,5 +1,2 @@
-Hello there!👋
-
-- 🔭 I'm a current Computer Science and Economics major at Yale.
-- Check out my latest project: Carbon Loop
+Hello there!👋 Check out my latest project - FPL AI.
 
